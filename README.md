@@ -1,6 +1,6 @@
-# m-mall
+# html-webpack-sample
 
-> A Vue.js project
+> 纯 html webpack项目文件架构
 
 ## Build Setup
 
